@@ -1,0 +1,25 @@
+.Blog{
+	color:skyblue;
+	font-size:35px;
+}
+
+.blog-anchor{
+	text-decoration:none;
+	color:skyblue;
+}
+.blog-anchor:hover{
+	color:blue;
+	text-decoration:none;
+}
+.size{
+	height:50px;
+	width:100%;
+}
+.button{
+  height:35px;
+  background-color:black;
+  color:white;
+}
+.button:hover{
+	background-color:skyblue;
+}

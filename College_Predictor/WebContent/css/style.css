@@ -1,0 +1,14 @@
+body{
+	margin-top: 0px;
+	padding: 0px;
+}
+. menubar ul li{
+	display: inline;
+	text-decoration: none;
+	padding: 5px;
+	text-align: center;
+	font-size: 18px;
+}
+. footer{
+	background-color: #0c314e;
+}

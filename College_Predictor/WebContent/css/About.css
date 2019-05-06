@@ -1,0 +1,80 @@
+.part_bg
+{
+	background-image: url('images/trackforce-fpo-3-blue.jpg');
+	background-size:cover ;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	
+}
+.part_bg h1
+{
+	color: white;
+	padding-top:40px;
+	font-size: 50px;
+
+}
+.part_bg h3
+{
+	color: white;
+	padding: 10px 0 80px 0;
+	font-size: 18px; font-weight: 500;
+	font-family: sans-serif;
+}
+.part_bg h3 a
+{
+	text-decoration: none;
+	color: #00FFFF
+}
+.part2_bg
+{
+	
+	margin: 0 auto;
+	position: relative;
+	padding-top: 40px;
+}
+p
+{
+	font-family: Open Sans;
+    font-size: 17px;
+    line-height: 25.2px;
+    color: #666;
+    font-weight: normal;
+ }
+
+.imgtext
+{
+	padding-top: 100px;
+	padding-bottom: 100px;
+	text-align: center;
+	font-family: Open Sans;
+    font-size: 17px;
+    line-height: 25.2px;
+    color: #fff;
+    font-weight: normal;
+
+}
+#foot
+{
+	background-color:gray;
+	color:white;
+	padding:30px 0px 30px 0px;
+}
+#foot a{
+	color:white;
+}
+#foot p{
+	color:white;
+	font-size: 16px;
+}
+#foot h5
+{
+	font-weight:bold;
+}
+#about
+{
+	line-height:22px;
+}
+#term
+{
+	padding-top:20px;
+}
